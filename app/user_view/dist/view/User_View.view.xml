@@ -1,0 +1,38 @@
+<mvc:View xmlns:form="sap.ui.layout.form"
+    controllerName="userview.controller.User_View"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:core = "sap.ui.core"
+    displayBlock="true"
+    xmlns="sap.m"
+    height="100%"
+>
+    <Shell id="shell">
+        <App id="app">
+            <pages>
+                <Page id="page" title="AI Core Intent Inference">
+                    <content>                  
+                        <VBox id="_IDGenVBox1" height="85%" class="sapUiSmallMargin" xmlns="sap.m" wrap="Wrap" renderType="Bare">
+                            <Text id="_IDGenText1" text="Provide an input text" class="sapThemeFontSize"/>
+                            <TextArea id="input" class="sapUiTinyMarginTop" growing="true" placeholder="Type here..." valueLiveUpdate="true"/>
+                            <!-- <Text text="Results:" class="sapUiSmallMarginTop sapUiTinyMarginBottom sapThemeFontSize"/>
+                            <Text id="result" text=""/> -->
+                            <Text id = "IDGenText2" text="Intent" class="sapThemeFontSize"/>
+                            <ComboBox id = "idComboBox" width="30%">
+                                <!-- <items>Yes</items> -->
+                                <core:ListItem key="Yes" text="True"/> 
+                                <core:ListItem key="No" text="False"/> 
+                                <!-- <customData /> -->
+                            </ComboBox>
+                        </VBox>
+                        
+                        <Toolbar id="_IDGenToolbar1" height="7%" class="sapUiSmallMargin" style="Standard">
+                            <ToolbarSpacer id="_IDGenToolbarSpacer1"/>
+                            <Button id="_IDGenButton1" text="Submit" type="Emphasized" press="onSubmit"/>
+                            <Button id="_IDGenButton2" text="Clear" type="Reject" press="onClear"/>
+                        </Toolbar>
+                    </content>
+                </Page>
+            </pages>
+        </App>
+    </Shell>
+</mvc:View>

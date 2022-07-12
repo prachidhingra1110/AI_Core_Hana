@@ -1,0 +1,800 @@
+ID,Target,Text,Status
+1,1,I agree with the document,Ready
+2,0,Not agree with the document,Ready
+3,1,Agreed with the provisions,Ready
+4,0,I need more information,Ready
+5,0,Not agree with some clauses,Ready
+6,1,I agree with below information,Ready
+7,1,Agreed with the clause,Ready
+8,1,I abide by all clauses,Ready
+9,1,"yes, acknowledged",Ready
+10,0,"no. Sorry, I cannot sign with the existing provisions",Ready
+11,0,need more info,Ready
+12,1,acknowledge the clauses,Ready
+13,0,I don't agree with it,Ready
+14,0,I am not sure,Ready
+15,1,I will abide by the provisions,Ready
+16,1,Abide by the provisions,Ready
+17,1,I agree not to disclose any information,Ready
+18,1,I am obliged to observe confidentiality,Ready
+19,1,I will adhere to,Ready
+20,1,I will keep information confidential,Ready
+21,1,I shall not disclose,Ready
+22,1,I shall keep all information as confidential,Ready
+23,0,I partially agree with the document,Ready
+24,0,I partially disagree with the document,Ready
+25,1,I hereby consent,Ready
+26,1,I hereby agree,Ready
+27,1,I hereby consent and agree,Ready
+28,0,I do not agree,Ready
+29,0,Not satisfied with the provisons,Ready
+30,0,Dissatisfied with the clauses,Ready
+31,0,Deny the confirmation,Ready
+32,0,refused to accent,Ready
+33,0,reject the NDA,Ready
+34,1,acceded to the contract,Ready
+35,1,I agree with the clauses,Ready
+36,1,Please find signed NDA as attached,Ready
+37,1,signed NDA as attached,Ready
+38,1,signed agreement attached,Ready
+39,1,Please find signed NDA,Ready
+40,1,I hereby covenant and agree,Ready
+41,1,I undertake not to disclose,Ready
+42,0,I have few objections,Ready
+43,0,I have objections to the agreement,Ready
+44,1,I shall disclose only with prior SAP approval,Ready
+45,1,I shall disclose only with prior approval by SAP,Ready
+46,1,I am obliged to adhere the agreement confidentiality,Ready
+47,0,I agree not to misappropriate any confidential information,Ready
+48,0,I might not honour full confidentiality,Ready
+49,0,I do not concur with the provisions,Ready
+50,0,I am not able to concur with some of the provisions,Ready
+51,0,I might violate some of the terms,Ready
+52,1,Accepted the NDA provisions,Ready
+53,0,Not able to sign NDA,Ready
+54,0,Cannot sign non-disclosure agreement,Ready
+55,0,comfirmation denied,Ready
+56,0,I refuse to sign,Ready
+57,0,I do not understand few clauses,Ready
+58,0,"Yes, I read through it, but not convinced",Ready
+59,1,I agree by the non-disclosure agreement,Ready
+60,1,I will observe confidentiality,Ready
+61,1,I shall keep all information confidential,Ready
+62,1,I abide by all the terms of the document,Ready
+63,1,I will prohibit any sharing of data,Ready
+64,1,I will prohibit any publishing if info to outside,Ready
+65,1,I am obliged not to disclose,Ready
+66,1,I will not violate any clause,Ready
+67,1,I acknowledge the consequence of the violation,Ready
+68,1,I undertake to abide by all the clauses,Ready
+69,1,I have signed the document,Ready
+70,1,Please find the signed document,Ready
+71,1,I will not violate any agreement,Ready
+72,1,I will keep everything confidential,Ready
+73,1,I will protect all the confidentiality of the information,Ready
+74,1,I will cooperate with SAP in protecting its confidentiality,Ready
+75,1,I will keep all data in my possesion confidential,Ready
+76,1,I will abide by the data classification type,Ready
+77,1,I undertake to adhere by all the rules,Ready
+78,1,I shall not share any information,Ready
+79,1,I acknowledge all the terms of the document,Ready
+80,0,I cannot abide by all the terms,Ready
+81,0,I will not be able to abide by all the terms,Ready
+82,0,I cannot undertake to abide by all the rules,Ready
+83,0,I shall have to share some information based on other business priority,Ready
+84,0,I am not convinced by the data classfication type,Ready
+85,0,The clasuses are too strigent,Ready
+86,0,The NDA is too strigent to be followed upon,Ready
+87,0,I do not agree to all the clasues,Ready
+88,0,I agree to some of the clauses,Ready
+89,0,I am doubtful about the clauses,Ready
+90,0,I need more clarification on certain clauses,Ready
+91,0,I cannot agree to all of the clauses,Ready
+92,0,I cannot agree with some of the clauses,Ready
+93,0,I am unable to accept the agreement,Ready
+94,0,I will not able to accept the NDA,Ready
+95,0,I decline to sign the agreement,Ready
+96,0,I am declining to sign the agreement,Ready
+97,0,It will not be possibele for me to agree with the clauses,Ready
+98,0,I am unable to agree with some of the provisions,Ready
+99,0,I do not think I can sign,Ready
+100,0,I will not be obligated to follow all provisions,Ready
+101,0,I think I can follow some of the provisions,Ready
+102,0,I think I cannot follow all the provisions,Ready
+103,0,Sure sounds good,Ready
+104,1,"thank you for the opportunity, I really appreciate it ",Ready
+105,1,I agree to the conditions stated ,Ready
+106,1,"I agree, but could I just clarify if there are other documents which need to be signed? ",Ready
+107,1,"For now I agree, and I will sign it",Ready
+108,1,Attached are the signed documents for your perusal,Ready
+109,1,Attached are the documents. Is there anything else you would need? ,Ready
+110,1,"Thank you for the prompt reply, here are the signed documents ",Ready
+111,1,"I appreciate your quick response, attached are the signed documents ",Ready
+112,1,Thank you for your assistance! I have attached the documents above ,Ready
+113,1,I am not sure about some clauses but for now I agree to the terms,Ready
+114,1,I might need to clarify some doubt but for now I agree ,Ready
+115,1,"This is something I have never done before, but I agree to the document",Ready
+116,1,"Here is my consent, but I need some guidance on some matters ",Ready
+117,1,I will try my best to adhere to the terms ,Ready
+118,1,"I am unsure how to proceed, do let me know! But I agree ",Ready
+119,0,These terms are a bit vague and I would need some clarification,Ready
+120,0,I would appreciate if you could elaborate on clause 2.2 because I am not very sure what it means,Ready
+121,1,Yup I agree to the terms ,Ready
+122,1,"Yes, here is my signed forms ",Ready
+123,1,"Noted, attached is my signed form",Ready
+124,1,Thank you for your help. Attached is the signed forms,Ready
+125,1,"Do let me know if you need any other documents, attached is the one you requested",Ready
+126,1,"Sorry for the late reply, attached is the signed forms ",Ready
+127,0,"Wow these are surprising terms, I don't think I can agree to them all",Ready
+128,1,"Okay I understand, and here are the signed documents",Ready
+129,1,Here are my documents. Could I clarify when I will get an answer? ,Ready
+130,0,I feel like I cannot agree to these terms,Ready
+131,0,"I am not sure about some clauses, so I cannot agree to the terms ",Ready
+132,0,"I would like to retract my application, how do I proceed?",Ready
+133,0,Sorry but I have received another offer and cannot proceed ,Ready
+134,0,"I have received another offer and will be going with them, thank you for your time ",Ready
+135,0,"I am unsure about clause 1, could you elaborate?",Ready
+136,0,What does clause 3 mean in the document? ,Ready
+137,0,Could you elaborate on what the process is like after this? ,Ready
+138,0,Could you tell me more about what will be done with the information once I sign it? ,Ready
+139,0,What are the steps you are going to take to ensure our data is secure?,Ready
+140,0,These terms are too outrageous to agree to ,Ready
+141,0,How can anyone agree to such terms,Ready
+142,0,I feel like these terms are too restrictive,Ready
+143,0,I feel like these terms are too restrictive and I cannot agree to them ,Ready
+144,0,Has anyone else agreed to such appaling terms ,Ready
+145,1,"Here is my document, and I will need you to update me on what to do next",Ready
+146,1,"Here is the file, thank you for your help",Ready
+147,1,Is this the signed document you wanted from me? ,Ready
+148,0,"I politely refuse, thanks for your help ",Ready
+149,0,I kindly decline signing the documents ,Ready
+150,0,This is something which is against my morals and I cannot sign this ,Ready
+151,0,This is offensive to me ,Ready
+152,1,"I really appreciate you and SAP for being so thorough, attached is the documents ",Ready
+153,1,Attached are the signed documents. Could I check if people from other regions are subject to such clauses? ,Ready
+154,0,This is too much. I cannot agree to them,Ready
+155,0,Could I send you the documents at a later date? ,Ready
+156,1,"Thank you for your kind help, here are the docs ",Ready
+157,1,here is the signed doc,Ready
+158,0,"This feels intrusive of my privacy, I cannot agree to them ",Ready
+159,0,"This is invading my privacy, I cannot agree",Ready
+160,0,I have not signed the document because I think it is too invasive of my privacy,Ready
+161,0,Could you elaborate more on what can and cannot be done?,Ready
+162,0,I will not sign the form first because of prior responsibilities,Ready
+163,1,This is something which I feel deeply for and will accept the terms,Ready
+164,1,Thank you for your kind understanding in the matter. I have appended the form above for your reference ,Ready
+165,1,"Noted, appended is the signed form ",Ready
+166,0,"No, I cannot agree to the terms as I do not understand some of them. Could you elaborate on them for me?",Ready
+167,0,I will leave the form empty for now as I want to seek approval from another party,Ready
+168,0,I'll sign this form in the near future as I need some guidance ,Ready
+169,0,"I appreciate your help, but I will not be pursuing this any further",Ready
+170,0,I will not sign this form now as I am not comfortabe with the clauses,Ready
+171,1,"Even though I am uncomfortable with some clauses, I have signed the document ",Ready
+172,1,Attached is the signed document but could I clairfy if this is what you requested?,Ready
+173,1,"Thanks for the assistance, I have done what you asked and attached it ",Ready
+174,1,"Attached is the form, cheers ",Ready
+175,1,Above is the signed form. How should I proceed? ,Ready
+176,1,"Thank you for your guidance, the form is appended above. Are there any other documents to be signed?",Ready
+177,1,"Really want to thank you for your help, have placed the signed form above ",Ready
+178,1,"Finished with the document you wanted, it is above ",Ready
+179,0,"The statements are confusing, I do not understand them ",Ready
+180,0,How do I proceed with terminating this process? ,Ready
+181,0,"Appreciate your kind and prommpt response, but I will not be pursuing this matter any further ",Ready
+182,0,"I cannot agree to some clauses, specifically 2.1 ",Ready
+183,0,Why is there such a provision in the document? ,Ready
+184,0,"I did not sign the document, but I will do so in the future ",Ready
+185,0,I apologize but I disagree with some of the stipulated parts in the agreement,Ready
+186,0,Perhaps there has been a mistake ,Ready
+187,0,"Perhaps there has been a mistake in this document, hence I have left it empty",Ready
+188,1,I have taken it upon myself to provide you the signed discolsure ,Ready
+189,1,I will take the initiative to submit the document first ,Ready
+190,1,"I believe I have already submitted the signed document, please do check and let me know",Ready
+191,1,I think the document has already been submitted,Ready
+192,1,"The document was a little confusing, could you guide me through it? I do intend to proceed with this agreement though",Ready
+193,1,I have read the terms and conditions and am ok with it ,Ready
+194,1,I completely consent and agree with the stipulated requirements ,Ready
+195,1,"Thank you for your prompt reply, above are the documents. How should we proceed?",Ready
+196,0,"Thank you for your prompt reply, however, I will not be proceeding with this",Ready
+197,0,I have read the terms and conditions and am not ok with it ,Ready
+198,0,I disagree with the terms and conditions ,Ready
+199,0,"I disagree with the conditions in the document, could I run them through with you?",Ready
+200,0,"This is something I am opposed to doing, I will thus unfortunately will not be proceeding with this process ",Ready
+201,0,"I am uncomfortable agreeing to the terms, and I will have to terminate this process at this stage. Thank you for your time",Ready
+202,0,I do not feel comfortable with the terms of the document,Ready
+203,1,I accept the offer.,Ready
+204,1,I attached. Thank you,Ready
+205,1,I signed the consent form . Please find the attchment for details.,Ready
+206,1,Sorry for the misunderstanding. Attached is the consent signed by me. Many thanks for your email and all your assistance.,Ready
+207,1,Many thanks for your email and all your assistance. Attached is the consent signed by me.,Ready
+208,1,Please see the attached. Thanks,Ready
+209,1,Please see my comments in original mail. Thanks.,Ready
+210,1,Please find attached signed BGV form.,Ready
+211,0,"Thanks for your mail. Actually I don't know what FADV really wants. For below mentioned content, I think I have uploaded in their system. I remember they told me some signature wrong in my form, and I have revised according to their suggestion and re-upload again. But since all the communication is by mail and several docs need to submit, now I'm lost where is wrong with which document now... Can FADV resend me the required doc and I sign again? Thanks.",Ready
+212,1,Attached pls find my signed consent form. Thanks for your kind help.,Ready
+213,1,"Attachment is the consent, please review. thanks for your help.",Ready
+214,1,Please check the attachment. Provide Employment Separation Certificate ( ) It belongs to MS onsite for EPG Provide Employment Contract,Ready
+215,1,Please check my signed BGV document in the attachment and let me know if you need more information. Thanks a lot,Ready
+216,1,"Attached two documents with fomat of pdf. And my date of birth on the identify card is 22 Jan, 1995. Thanks!",Ready
+217,1,"Thanks for your clarification, now it's much clear. Please kindly find the photo in attachment, feel free to reach out to me in case anything else I misunderstood.",Ready
+218,0,"FYI. Self- Employment (2017 & 2018) (2020 & 2021) Apologize for sharing the screenshot only in Chinese, as the English version of the personal summary is out of support on those platforms. For the detailed contents, I'm unable to share with you since it's conflicting with the NDA of the businesses/projects I've signed with the owners. Hope that's adequate for the BGV, otherwise please feel free to reach out to me via",Ready
+219,1,"Yes exactly, it is the only documents that I'm able to provide. Please kindly find the attached email I sent to your colleagues regarding this topic two months ago. (The response from your side has been removed automatically by my email provider, but I suppose you may find some history referring this timeline) Hope this answers your question.",Ready
+220,1,"Attached Offer letter and Contract (while in Chinese), showed my position and start date. Windows :",Ready
+221,1,I have reviewed and signed the consent form as attached.,Ready
+222,1,"As I served as a Freelance during that period: The payroll agency is: Innovare The client is: Pfizer Attached is the contract signed with Innovare, hope it can clarify the discrepancy I inputted.",Ready
+223,1,please find the signed consent in attachment . Thank you and,Ready
+224,1,"The requested documents were already collected by local HR, Hantian who is in cc, before onboard. Please find the attached email.",Ready
+225,1,"Madam, Please check the attached consent form for BGV. Thanks.",Ready
+226,1,"I have attached the scanned copy of consent form, please have a check, thanks.",Ready
+227,1,"Thanks for waiting, here is my consent form.",Ready
+228,0,"Sorry for this late reply ,I just came back from my annual leave and notice this E-mail. Will do asap.",Ready
+229,1,"Please see the attachment, thank you.",Ready
+230,1,"Completed,thank you.",Ready
+231,1,My BGV consent form is attached to the email.,Ready
+232,1,find attached person income tax form (Password is 292532) and employee certification from techmahindra. below are the HR contract information in Techmahindra and my Id. My id: 437178 HR Contact:,Ready
+233,1,"see signed doc. Thanks, JSH",Ready
+234,1,I have signed manually. Please check the attach file.,Ready
+235,1,Rose Puri Thanks a lot for your trust! It's my great pleasure to join SAP! Attached please find documents you requested. Thanks for your time! Hope you have a nice day!,Ready
+236,1,Attached are my resignation certificate and income certificate. Please check them. Thank you very much.  15311910737,Ready
+237,1,"Thanks you for your work. I have reviewed and signed the consent form. Thanks,",Ready
+238,1,please see attachment,Ready
+239,1,"I re-signed the consent form as required, please check the attachment.",Ready
+240,1,"I have signed the consent form, please see the attachment for details.",Ready
+241,1,It's scanned copy.,Ready
+242,1,Please refer to the attachment for certificate.,Ready
+243,1,"The attachment is the consent form I signed on April 30. If there are any problems, please contact me, thanks.",Ready
+244,1,"The attachment in last email is e-signature, I resend you a manually signed consent form in this email. If anything wrong, please contact me, thanks for your help.",Ready
+245,1,Please refer to the attachment for signed consent form. Thanks.,Ready
+246,1,This is my BGV Consent Form,Ready
+247,0,have done it again,Ready
+248,1,"Thanks for your reminding. I have signed it manually, it's attached in this email.  2021-04-26",Ready
+249,1,The attachment is the document that I signed.,Ready
+250,1,"The doc attached to This email is correct. I am sorry about that. Thanks,  2021-04-23",Ready
+251,1,"I reviewed and signed the consent form, the attachment is the signed document,",Ready
+252,1,I am sorry about that. The attachment is the photograp which I signed.,Ready
+253,1, I have reviewed and signed the consent form. You can see it in the attachment .,Ready
+254,1," I don't know whether to sign Chinese name or English name, so I signed two copies. Two scanned copies of the signature. In the attachment, you can choose what you need: English signature: BGV Consent Form_China.pdf Chinese Signature: BGV Consent Form_China ( ).pdf",Ready
+255,1,"attached ""BGV Consent Form_China-signed"" to the attachment for your reference. Thank you Have a good day!",Ready
+256,1,"I also attached paper scanned documents named ""paper scanned-"" . Signed with PDF documents named ""BGV Consen t Form_China-signed"" for your reference. Thanks",Ready
+257,1,"I received an email which showed that it was not delivered successfully, so I sent it again. Update: I also attached paper scanned documents named ""paper scanned-"" . Signed with PDF documents named ""BGV Consent Form_China-signed"" for your reference. Thanks",Ready
+258,1,Thank you for your email! Here I attached my consent form. I hope you have a great day!,Ready
+259,1,I'm sorry for the trouble! Here I attached the manually signed and scanned copy. Please let me know if there is any other information I can provide. Thank you!,Ready
+260,1,Consent form is signed and reviewed.,Ready
+261,1,I think this time the signed copy should works fine. Please let me know if you have any questions.,Ready
+262,1,you for your reminding. I have scanned a new copy and uploaded it in the attachment. Please kindly check.  Outlook for iOS :,Ready
+263,1,"Thanks for the Email. As for 's supporting documents, please kindly check the attachment. This is my resignation certificate, which lists my entry, resignation time and position name. For the relevant supporting materials of the future hotel, my ID number is wb530453 By asking the current staff, the change of HR Director may be due to your failure to contact. The current HR name is and the telephone number is + 86 15032350751 Please feel free to contact her. If you need more supplem entary documents or information, please feel free to contact me Wish you all the best",Ready
+264,1,"The document for signature is attached, please kindly check! Wish you all the best!",Ready
+265,0,"I'd like to follow up to confirm if the consent form is received. When should I expect to get the link to upload documents? Thanks,  On Apr 23, 2021, at 18:24, Joy",Ready
+266,1,"Please find the employment verification letter attached for my job at Ta Kung Pao. It's only available in Chinese. Would this work for my background check? Let me know if you need additional information. Thanks,  On Jun 2, 2021, at 11:58, ",Ready
+267,1,"Attached is HP offer letter which sent by HP in 2010. And it's hard to find the Paystubs in 2016,becasuse I cannot login the HP HR system any more, I just can provide the Bank transfer records to you, thank you!",Ready
+268,1,"Attached is my offer letter which sent by the HP HR system, and the bank trasfer recode in 2016, you can check it out, thank you! The HP splited into HPI and HPE( ). And I also provide the my resignation letter as attachement as well, I hope that meet the verification from your side, thank you.!",Ready
+269,0,"Sorry, there is no company name in the system, I cannot get it from my side. I think you can check the bank transfer records which I sent you before, they contains the company name and shows it is salary as well, thank you. Derek",Ready
+270,1,"pls check the attached file, thank you!",Ready
+271,0,"I am in business traveling now, and i cannot find related document within reach, I will try to find related document when I am back to home thank you Derek",Ready
+272,0,"Since the new project just started, maybe in April 4th when I am flyback. Then I will try to find the documents and send to you, thank you.",Ready
+273,1,Pls check the attached files. 1. Offer with stamp and my signature 2. housing fund records in 2016.,Ready
+274,1,I accept the offer.,Ready
+275,1,I accept the offer.,Ready
+276,1,Attached is my consent form.,Ready
+277,1,"Ok, attached is the revised form.",Ready
+278,1,signed consent is attached.,Ready
+279,0,"I had an issue to ask about the current address in this background check. As I filled the first address (current address) for my profile, I mistakenly chose CHINA MAINLAND which I thought was the permanent residential country. As I realised that should be the current living address, I could not go back to change it. Hence, I filled in the address where I lived in China (Zhuzhou) with the period from April 2021 to now. But actually I am in Germany , the current address is the one which I filled as the second german address ",Ready
+280,1,I updated this document with a scanned manual signature. Please check it in attachment.,Ready
+281,1,"Here is my documents. Please let me know if you need any additional information. By the way, I am still waiting for my degree certification.",Ready
+282,1,Sure. Here is my transcript.,Ready
+283,1,Here is my scanned document. Thanks!,Ready
+284,0,My degree certification has been mailed to me from the university last week. We have to wait for another two or three days I think. Here is the emails between the University Registrar and me.,Ready
+285,1,Here is my consent form. Thanks!,Ready
+286,0,Sure. Can I send it to you tomorrow? Because all the print shops are closed now.,Ready
+287,0,"According to the university registrar, because of the fact that I graduated in March 2021, the record of my degree will not be posted on their system until 8 p.m., April 30, 2021, which means that I cannot get the degree verification before that time. I can show you all the emails between university registrar and me.",Ready
+288,1,"Finally I received my degree certification, which is attached in this email. Thanks for your waiting!  From:  ",Ready
+289,0,"Oh, sorry. Can you see the attachment now?",Ready
+290,1,"I have printed, signed and scanned the copy. Sorry for the mistake and thank you for reminding me.",Ready
+291,1,Here is the scanned copy with manual signature.,Ready
+292,1,Please find attached my signed BGV Consent Form. Thank you very much!,Ready
+293,1,Attached is the hand-signed copy. Thank you!,Ready
+294,1,Please find the attachment for the signed consent form,Ready
+295,0," Thanks for reaching. Please find the attachment. I read this email carefully and basically understand the process. Only one concern here - because it is Chinese New Year vacation now and I'm back in hometown from Dalian, but all my documents, including employment contracts and education certificates are in Dalian currently. I cannot provide the soft copy of them until 21th Jan. Will this lead to the BV delay? Please kindly make me aware if anything.",Ready
+296,1,Please check the attached first half of my contract with Fidelity Dalian. Let me know if any doubts/concerns.,Ready
+297,1,Please check the attached second half of my contract with Fidelity Dalian. Let me know if any doubts/concerns. Best,Ready
+298,1,Thank you for the confirmation. Wish you a nice day:),Ready
+299,1,My certificate of employment in ABeam Consulting is attached. Thank you.,Ready
+300,1,"Recruiting Department, The signed-consent form is attached. Thank you.",Ready
+301,1,The scanned signed-consent form is attached. Thank you.,Ready
+302,1,"Thanks for your kind email. Since the English name of ""Deshuo Management Consulting (Shanghai). Co., Ltd."" is ""A Beam Consulting"", which is stated by the company itself, you can find the seal on the last page showed ""ABeam"" and "" (Deshuo Mana gement Consulting (Shanghai). Co., Ltd.)"". Hope this can be helpful. Thank you.",Ready
+303,1,Enclosed please find my signed consent letter for background check. Thanks &,Ready
+304,1,Thanks for the reminder. Enclosed please find my signed copy of consent. Let me know if you have any inquiry. Thanks. Thanks &,Ready
+305,1,I have signed the document again please check.,Ready
+306,1,"Sorry about inconvenience, I have attached a new file this one is a manually signed one, please proceed the background check.",Ready
+307,1,"Please go ahead with the background check, I have signed and attached the consent form.",Ready
+308,1,have signed the consent. Thank you.,Ready
+309,0,"give me a moment. I am working from home today, I will go out to find a printer and print it out during my lunch",Ready
+310,1,Please kindly see the attachment and let me know if additional info is required. Thank you.,Ready
+311,1,"Madam, I'm very happy to join SAP! I've well received the email. The attachment is the consent of my Background Verification with my signature. Thanks you for your time!",Ready
+312,1,"The attachment is my relieving letter from my former company - Shanghai Mingqi Educational Institution, which contains the information of my position and dates of employment in the company. Hope this file is enough for my background verification. If you need any further information, please let me know. Thanks!",Ready
+313,1,"Joshua, Thanks for your information. The attachment is a copy signed as required. Thank you!",Ready
+314,1,"Attached is the signed consent form for the background check. Have a nice day, Eric",Ready
+315,1,"Apologies, the previous email ended up in my spam folder. Please find attached the signed consent form.",Ready
+316,1,"I don't have a Chinese ID as I'm a German citizen. Please see attached my passport scan. On Tue, Feb 16, 2021 at 08:10 Ortanez, Katherine Lorraine ",Ready
+317,1,", Thank you for your email. I have signed the BGV Consent Form,please kindly check.",Ready
+318,1,"Operation Team, Please find attached BGV consent form with my signature.",Ready
+319,1,"I have signed the consent form, but something happened to me yesterday and I didn't see the email, so I couldn't reply within 24 hours, I'm really sorry.",Ready
+320,1,I consent the background verification.,Ready
+321,1,"I can only provide the document in  Net https://www.chsi.com.cn/) now. It can prove my degree. 2021-02 -02 20:16:51 """" ",Ready
+322,1,I will provide the degree certificate as soon as I return to school when the winter vocation ends on 15 March 14741143569,Ready
+323,1,I'm so sorry for the delay.These are my bachelor degree certificate. Thank you!,Ready
+324,0,I didn't find any forms attached to the previous email. Would you please help out on this? Thanks!,Ready
+325,0,It seems that there was no file attached to this email. Could you help check again? Thanks!,Ready
+326,1,Please find the signed form in the attachment. Thanks!,Ready
+327,1,I would like to provide you with my latest marksheet issued in January 2021. This is the most recent document I can find for now and hope that this can meet the requirements.,Ready
+328,1,Attached is my signature.,Ready
+329,1,The signed form is attached.,Ready
+330,1,I have signed,Ready
+331,1,Attached picture is the signed paper.,Ready
+332,1,The form has been signed.,Ready
+333,0,"Hope you have a nice day, I have not received an automatic email from the third party so far. Do I need to wait more time?",Ready
+334,1,Hi; Pls. find my signature as attached. Thanks.,Ready
+335,1,please check the file thanks,Ready
+336,1,"please check the photo/scanned copy, thank you",Ready
+337,0,"How's the background check going? How long will it take? I have submitted relevant materials for about a week, but it seems that I haven't received relevant feedback Thank you 2021-08-30 21:45:04 "" """,Ready
+338,1,"Please kindly find the attached signed copy. Thanks, Jessica From:",Ready
+339,1,Notice that I have received two emails for background verification. Both BGV Consent Form have been signed and attached to this email. Please check. Thank you.,Ready
+340,1," I've completed my profile, please find it. Thanks and",Ready
+341,1," I have signed the consent form, please find the attachment. Thanks.",Ready
+342,1, I'm sorry my feedback is late. I have submitted the certificate of Sichuan University to HR in May 7. Please find the attached and check. Thanks.,Ready
+343,1,"Thanks to reach out. Sign the statement and copy over, let me know if there is any other step I should follow. : Glob",Ready
+344,1,", Thank you for your contact. I have signed up the consent and attached it here. Please have a look. Have a great weekend.",Ready
+345,0,"1. I don't have any copy of document in hand to prove employment of  since 2014.4 to 2016.10 because it was long time ago, attachment 1 is screenshots for my endowment insurance payment detail, there are company names in it 2. attachment 2 to prove employment since 2016.10 to 2021.5 thanks",Ready
+346,1,I have signed the consent form as required. Please check the attachments.,Ready
+347,1,I worked for SAP from July 10 2017 to 17 July 2019. My I number was . Please check the attachment for my copy of national ID card. Thank you.,Ready
+348,1,Please find attached printed copy signed by pen for your further processing. Thank you,Ready
+349,1,", Please find attached signed consent form for your further processing Thank you",Ready
+350,1,I have signed the consent form for background verification. Please get the file form from the attached. Thanks.,Ready
+351,1,I have accepted this consent.,Ready
+352,1,"HR, Please see the attached consent form which has been reviewed and signed. Thank you.",Ready
+353,1,"HR Team, Please see the attached requested file.",Ready
+354,1,"hi~ bgv consent is in the attachment, please check it. 2021-04-22 23:25:36 """,Ready
+355,1,am. Here is the document please check it.,Ready
+356,1,check the attached signature. Thank you Rui 2021 4 15 18:16,Ready
+357,1,"Yes, I received the new mail and now it works. I have complete the online application. Thanks for your help.  2021 4 23 1:20  ",Ready
+358,1,Please check the attachment.,Ready
+359,1,"Thank you for the email. Please check the attachment of my consent form. Any questions, please let me know. Best",Ready
+360,1,", Sorry for getting back to you so late. I've signed the consent form and attached it.",Ready
+361,0,"Sorry, I forgot to add the attachment. Tel 18012536658 Mail",Ready
+362,1,"appreciate to recive your message, and ready to join you! The BGV Consent Form is in the attachment, please note to check.",Ready
+363,1,"appreciate to recive your message, and ready to join you! To be safe, I send a photo of the form to you again, please note to check.",Ready
+364,1," I have received your e-mail This is to confirm that I have knowledged your request. Attached signed consent form, I am very willing to cooperate with your work.",Ready
+365,1,Thanks for your mail. Please find the attachment. Thank you &,Ready
+366,1,The attached image is my signed consent form.,Ready
+367,1,"The BGV consent form with my signature is attached in this email, please have a check. If there is any improper mistakes, please feel free to contact me.",Ready
+368,1,Signed BGV Consent Form attached  :,Ready
+369,1,"/ Madam, Sorry for the late reply. I've attached the signed consent form as requested . Please kindly check that. Thank you.",Ready
+370,1,Sorry that I didn't read this email before and I hope it's not too late to send it to you! Attached is my signed consent form. Thanks! Looking forward to your reply.  From:,Ready
+371,1,"Here is my signed consent form. Thank you,",Ready
+372,1,Please find signed BGV consent form as attached. Thank you. Thanks &,Ready
+373,1,"Kindly find the signed BGV Consent Form attached, thanks.",Ready
+374,1,"find attached the signed consent form. Thanks, ",Ready
+375,1,"Please find attached the scanned copy of printed and signed consent form. Please let me know if it meets the requir ement. Thanks, ",Ready
+376,1,"Recruiters, attached please find the signed BGV consent. Thank you for helping me.",Ready
+377,1,Here is attached for BGV Consent Form that I already signed. Thank you,Ready
+378,1,The consent form is attached.,Ready
+379,1,I reviewed the information and signed the consent. please check the attachement picture.,Ready
+380,1,Thank you for your email. I have signed the consent form and attached it.,Ready
+381,1,Thank you for your email. I'm sorry that I forgot to add the attachment in the last email. I have signed the consent form and attached it.,Ready
+382,0,"Sorry, this error caused by myself. I know why the time difference now. I graduated in 2012 and left the school for work . But in this time, school just give me Certificate of completion, because I have elective courses not finish. After 2012, I completed the elective courses and applied for the graduation certificate, so the current latest certificate shows that I graduated in 2014. Because the school only keeps the latest certificate, I can't provide the certificate of 2012 now. If have anything else I need to do , please let me know.Thank you very much!",Ready
+383,0,"I did graduate in 2012, but according to my diploma, it was 2014. I don't know if it was a school mistake or something else. I need go to school to check why the time different. I will ask the school to issue a certificate if possible. I'll tell the reason as soon as possible. In my case, Can you give me some advice Thank you very much!",Ready
+384,1,Please check the attachment.Thank you!,Ready
+385,1,Thanks for your advice. Attached is my student transcript. It is recorded that my graduation project was completed in 2012.,Ready
+386,1,Please check the attached file.,Ready
+387,1,Attached is the consent form for your review. Thank you.,Ready
+388,1,I accept the Background Varification.,Ready
+389,1,"accept the Background Varification. Here is the photo copy of my submission. Please see the attachment. Sincerely,",Ready
+390,1,Please find the signed BGV Consent form as attachment.,Ready
+391,1,"please find the consent form in the attachment, thank you.",Ready
+392,1,This is my peroson information statement.Thank you!,Ready
+393,1,I am very pleasure to accept the Background Verification. Please see attached file for the consent form. Best,Ready
+394,1,The attached file is my signed consent form. Thank you.,Ready
+395,1,I just found my Graduate Employment Agreement. The attached is picture of the Graduate Employment Agreement. Hope this helps. Thank you.,Ready
+396,1,BDV Consent Form has been attached to this E-mail.,Ready
+397,1,"I have signed the consent form, pls see it in the attachment.",Ready
+398,1,Thanks for your explanations. Please find the attached for my manually singed copy. Please let me know if there is any more information need to be provided.,Ready
+399,1,Please find the required manually singned consent.,Ready
+400,1,Please find my signed consent form attached.,Ready
+401,0,As I am afraid my last letter did not reach you. Please let me resend the mail.,Ready
+402,1,"Lahaba, Please find the signed consent in the attachment. Thanks",Ready
+403,1,"Please find the attach signed document for background check confirmation. Thanks,",Ready
+404,1,Please find the attached form. Thanks!,Ready
+405,1,Please kindly refer the signed consent form for background verification. thanks.,Ready
+406,0,"Thank you for letting me know this information. I do have the offer letter that can prove my start date and job title, but I remembered that document is strictly confidential. Could you accept if I cover some of the clauses and information of the company? But I will leave the start date, job title, signature and all the necessary information for you to check. Please let me know if that's acceptable or not. Thank you.",Ready
+407,1,"I cannot find a proper link to upload the file. Please find the letter in the attachment, which includes the start date, my title, signature. As it is a confidential document, sorry I have to delete some pages in the middle. Please let me whether it helps or not. Thank you.",Ready
+408,0,"Hope you are well. As it's been for a week since I provide the material, Could you please let me know whether it is a valid one or not? Also, is that all good of the background check? Any further documents I need to provide? Thank you. Reagrds, ",Ready
+409,1,"Kindly check the attachment, thank you. Outlook for iOS :",Ready
+410,0,"Sorry to disturb you again, may I ask your help to check the current status? I haven't received any link or mail to start background verification, is there anything wrong with my attached document?",Ready
+411,0,"team, I don't see any link in this mail to upload my document? Would you please check? Thank you",Ready
+412,1,"Kindly check the attached pictures, thank you!",Ready
+413,1,is the offer sent by the xiamen zhishi company through email and the payment history as attachment FYI. any problem please feel free to contact me  iPhone,Ready
+414,1,"I notice in the link in the email it mentioned 'print out the consent form, sign it by hand and scan it , email to glo",Ready
+415,0,"I havent received the automated invitation email, is there anything I could do to receive this automated invitation e mail . thanks!",Ready
+416,1,signature attached thanks iPhone,Ready
+417,1,Thanks for your e-mail. My consent form with signature is attached to this email please check. Thanks.,Ready
+418,1,I have read and signed the consent form. Please start the Background Verification. ,Ready
+419,1,"I went to the government's query page to find the employment record information, please refer to the attachment, thank you!",Ready
+420,1,"Have I finished my background verification? If it has been completed, please let me know. If not, please explain the reason. Thank you!",Ready
+421,1,I sign the form and accept it.,Ready
+422,1,"HR TEAM, I'm so sorry that I just saw your e-mail this morning and failed to replay you as required within 24 hours. I hope this doesn't cause too much trouble for your work. I have reviewed and signed the consent form which is attached to this e-mail. Thank you for your time. Have a good day!",Ready
+423,1,Thank you for your kind reply. I have attached a photo of the consent form as required. Please reach out to me if there is any problem with the form.,Ready
+424,1,I accept the Background Varification.,Ready
+425,1,Please find Form attached. Thank you.,Ready
+426,1,"Please check my Degree Certificate and Certificate of Employment in Beijing Neusoft Information Technology Co., Ltd as attached, thanks.",Ready
+427,1,"I am Sorry for that. I sent you two attachments again, including a pdf and a jpg, please check them.",Ready
+428,1, Sorry to reply late. Pls check the attachment and thank you for your assistance.,Ready
+429,1,Thanks for your mail. Please refer to the attached for the signed document.,Ready
+430,1,"I hope you are doing well. The attachment is my final mark sheet, please check it. If you have any questions, please contact me ASAP. Thank you very much.",Ready
+431,1,I accept. Attached is the agreement document.,Ready
+432,1,"BGV team, I've attached my signature. Please review and let me know for any issue. Thank you for your time. Thanks, From:",Ready
+433,1,"BGV team, Please ignore my last email as it was singed with wrong data. Please using the attached signature in this email instead. I'm sorry for the inconvenience. Thanks, From:",Ready
+434,1,"Sender, Please see attached for my consent to authorize SAP to conduct my background investigation.",Ready
+435,1,I'm sorry for missing the pen-signature on the form. The document is attached.,Ready
+436,1,Sorry for causing the delay. I did upload the file. Maybe there is something wrong with my email service. I uploaded again this time. Please find the form in the attachment. Thank you very much.,Ready
+437,1,Thank you for contacting me. Please find the form attached. Thank you very much.,Ready
+438,1,Please refer to the attachment below again.thrank you.,Ready
+439,1,Hi: Please refer to the attachment below.,Ready
+440,1,"Confirmed and signed. Check the attachments please, Thank you!",Ready
+441,1,Could you kindly review my signed copy Thank you,Ready
+442,1,Attachment has been signed,Ready
+443,1,I have signed the consent form and added the scanned copy to the attachment. Please kindly check it. Thank you for all your assistance.,Ready
+444,1,"Barreda Please see attachments, Thanks!",Ready
+445,1,"Barreda Thanks for your asking, It was long time ago, may be not much message about those stuff. Attachment photo is Job confirmation that I work for CITIC Dicastal BPC Consolidation Project as a free consultant in 2016 Year",Ready
+446,1,The attached document has been signed. thank you ,Ready
+447,1,"I'm so sorry for the typo, corrected and resent. there is no change for content. Enclosed is my signed consent form. Please check, thanks so much.",Ready
+448,1,"Sure, please go ahead.",Ready
+449,1,"Enclosed is my signed consent form. Please check, thanks so much.",Ready
+450,1,"dear, I just saw the email today, so I replied late, please forgive me.",Ready
+451,1,"1 Oracle Relieving Letter showing,Please see the attachment 2 Date of birth, My account password is locked, I will deal with it later Hulk Huang",Ready
+452,1,"I'm really sorry that I chose the wrong date of birth. My date of birth is June 26, 1982. Besides my ID card, you can also find out from my driving license. Attached is the driver's license.",Ready
+453,1,"Sorry, I just forgot to upload the attachment",Ready
+454,1,"Barreda, The document I signed has been attached to the email. Please check it.",Ready
+455,1,Barreda Thank you for your notice. I have reviewed and signed the consent form and sent it back as the attachment of the email.,Ready
+456,1,"and HR, Thank you and attached is my signed consent form.",Ready
+457,1,I have signed the consent form. Thank you!,Ready
+458,1,Barreda I have completed the signature of the consent form for background investigation. Please help me to further the background investigation process. Thank you for your cooperation.,Ready
+459,1,"The signature of Background Verification Consent please see attachment, thanks.",Ready
+460,1,"Ok, got it. The manually signed document see the attachment, if any other question please feel free to let me know, thanks.",Ready
+461,1,"Barreda Thank you for emailing me. As you requested, I have signed the consent form which has been attached to this email. If some information is unclear, please contact me at any time.",Ready
+462,1,"Pls check the attachment. Thanks, .",Ready
+463,1,Please find the signed document in the attachment. Thanks,Ready
+464,1,The consent form was signed and attached.,Ready
+465,1,Signed. FYI.,Ready
+466,1,I have signed the document. Please checking.,Ready
+467,1,"Please see the attachment, I accepted the background verification, thanks. .",Ready
+468,0,Is this photo ok ? ,Ready
+469,1,The Paystubs/Payslips file is attached. ,Ready
+470,1,Please find the photo version in attachment. Thank you!,Ready
+471,1,"Please find my signed consent form in attachment, thank you!",Ready
+472,1,"Glad to hear from you. Please find my Student ID in the attachment, which also contains the proof of attendance for 2021. Also, please find the copy of my passport in the attachment, it shows my last name Shen. However, since I'm away from ho me, the copy I hold in my device now doesn't contain complete parents' name. If you need ID that shows my complete parents' name, you can contact me at any time, but it might need some time for me to find it. Thank you.",Ready
+473,1,"In case you still need an ID containing complete parents'name, I attached a copy of Household Register with this email. Hope this will help you match my last name. Looking forward to your feedback.",Ready
+474,1,I consented to a background check.,Ready
+475,1,I'm sorry for the inconvenience. Attached a handwritten signature copy.,Ready
+476,1,"Attached my App Annie employment certificate. But for XIZHI INFORMATION TECHNOLOGY, I think I have submitted the original employment certificate to App Annie, sadly I didn't keep a copy. I have email conversations with electronic offer and so me salary payment slips, hope it works for you. I have provided HR's contact number, did FADV ask her for confirmation? T hank you.",Ready
+477,1,Please see attached for the completed consent form and let me know if any questions.,Ready
+478,0,Do I need to send it to SAP company? 2021 6 16 16:30,Ready
+479,0,Sorry what should I do after signing the consent form,Ready
+480,1,find the scanned doc from attachment iPhone,Ready
+481,1,"Sorry the date in doc I send just now is not correct, pls find the new doc from the attachment.",Ready
+482,1,Pls find the new doc from the attachment.,Ready
+483,1,Pls kindly get the signed doc from attachment.,Ready
+484,1,"Please find my signed consent form in attachment. Thanks,",Ready
+485,1,"I've attached a photo of the pen signed file. Please check if that's ok. Thanks, iPhone",Ready
+486,1,"for your email. Pls refer the attachment for my signed BGV consent. Thanks a lot. At 2021-0 6-24 20:55:23,",Ready
+487,1,Here is the signed BGV consent form thank you.,Ready
+488,1,The last email may not meet the requirements. I have updated the consent form which has been attached. Cheers! From:,Ready
+489,1,The consent form has been attached.,Ready
+490,1,Attached please find my confirmation on the personal information collection statement.,Ready
+491,1,The attached photograph is my signature.,Ready
+492,1,Please refer to the attachment.,Ready
+493,1,The consent form has been signed.,Ready
+494,1,The attachment is the separation certificate.,Ready
+495,1,"I have signed the consent form manually, please check it.",Ready
+496,1,Thanks for your hints. I will sign it manually ASAP.,Ready
+497,1,Please check the attachment!,Ready
+498,1,Here is my consent form with signature.,Ready
+499,1,Thanks for your email and attached is my signed documents for your process. Nice day ,Ready
+500,1,The attached is the consent.,Ready
+501,1,I have checked and signed the BGV Consent Form. Pls help to check.,Ready
+502,1,Please check the attached file. Thanks.,Ready
+503,0,"Sorry, I didn't receive automated invitation email. Can you help me check it?",Ready
+504,0,Yes I can't get the needed document,Ready
+505,0,"Sorry, I do not have updates on my documents : ",Ready
+506,1,"Thank you for your email & the guidance provided. I would be happy to cooperate & complete this process. As requested kindly find the signed BGV Consent Form attached. Would also look forward to further communication with the FADV team, many thanks in advance.",Ready
+507,1,"Thank you for the guidance provided, it has helped me to submit the required information for the background checking process. I have submitted it on Monday & hope all information/documents are sufficient. Would seek your advice as well whet her I could obtain an update about the result from you, many thanks in advance.",Ready
+508,1,I agree SAP do Background Verification about me. Please confirm the consent form attached. Contact me if you have any questions. Thank you very much!,Ready
+509,1,"Lahaba, I am so glad to have this opportunity to work for SAP. I have reviewed and signed the consent form, which is attached to this email. Please contact me any time if there is a lack of information.",Ready
+510,1,Attached is the signed BGV consent form. Thank you!,Ready
+511,0,"Please find my labor contact with National Instruments (NI) and my past three payslips in the attached files. Note that the labor contact was renewed in January, 2021 as my previous contract with NI would be expired in June 2021. So, the attached labor contract may not reflect my time at NI during June 2018 to June 2021. As aligned with HR at NI, I'll receive a relieving letter on my last day (October 29, 2021) so I'm not able to provide the letter at this time. Also because I'm now on vacation and will be back to the office on October 29, it is not convenient for me to get a certificate of employment/experience letter with my current employer. I can",Ready
+512,1,"I have reviewed and signed the consent form as you can find in the attachment. Thanks, Ling",Ready
+513,1,Studying certificate attached.,Ready
+514,1,"Having received the Consent required for Background Verification, I agree to undergo the Background Verification. Attached please find signed consent form. Thanks for your time. I am looking forward to joining in your company.",Ready
+515,1,I have signed the consent form and scanned it as attachment. Thanks.,Ready
+516,1,Thank you for your confirming. I have signed and attached a new consent. Please have a check and continue the process. Thank you.,Ready
+517,1,"I attached a photo of my ""Certificate of Employment"" in Japanese. In the certificate, "" "" is the details of my position. Please have a check.",Ready
+518,1,Thank you for the mail. I have signed and attached the consent. Please have a check and continue the process. Thank you.,Ready
+519,1,"thanks for your checking. The Fujitsu uses ""Solution/Services- Business Architecture"" as the details name of the job title internal. The ""System Engineer"" is a",Ready
+520,1,"Good evening, I am sending the Photo of BGV. Thank you.",Ready
+521,1,I am sending the Consent. Thank you.,Ready
+522,1,"Thank you, I have signed the attachment.",Ready
+523,1,"Attached are the payslips of August, September and October, and the certificate of employment. Thank you!",Ready
+524,1,Consent,Ready
+525,1,Attached please find my Leaving certificate from QMoo Tech( ).,Ready
+526,1,Sorry for my confusion. Attached please find the one with printed copy signed by pen.,Ready
+527,1,Attached please find the signed consent form.,Ready
+528,1,find the document attached. thanks,Ready
+529,1,"I've attached a scanned version after printing and signing, pls see if it is ok for this time. thanks a lot, ",Ready
+530,1,you for your understanding. Attached the business license for your process. iPhone,Ready
+531,1,"The form has signed as attached, please check and any query, please free to contact me. Thanks a lot.",Ready
+532,0,"email has been received, but I'm sorry that I can't provide the materials that need to be provided. During the period of 15-18, I started my own business. At present, I only have the business license at that time as the certificate. During my stay at IBM, the only sealed documents with positions and work start dates is labor contract but it was in 2006. It has been 15 years now. I have not kept these materials. I have tried for a long time but sorry that I can't find them. Thank you! Kindly",Ready
+533,1,This reply contains the scanned consent form copy. Please check the attached file.,Ready
+534,1,Consent form signed. From:,Ready
+535,1,"Dears, I have signed the BGV pdf, and put it in the attachment, please check it.",Ready
+536,1,"I have received the email and agree to a Background Verification. But I don't know which form to send the background verification consent to you. Should I print it out and sign it, then take a photo to you, or use electronic signature? I hope to receive more specific requirements. Thank you and wish you a happy life.",Ready
+537,1,"Attached is the background verification consent signed by me with the mouse. I wonder whether the signature in this format meets the requirements. I am looking forward to receiving your reply. Thank you and wish you a happy life. Best regards,",Ready
+538,1,Thank you for your reply and I have already got the information I need. I agree to a Background Verification and att ached is the photo of the consent form signed by pen. Looking forward to your invite of the Background Verification.,Ready
+539,1,I have signed the consent form. Please refer to the attachment. Thank you!,Ready
+540,1,Please refer to the attachments. Thank you!,Ready
+541,1,"Sorry about my misunderstanding , it is a signature form by pen, please check. Sincere thanks,  :",Ready
+542,1,I accept the offer.,Ready
+543,1,Please get the printed copy of name signature from the attachment.,Ready
+544,1,Please find below documents from attachments. Resignation_Certificate_ jpg.jpg Resignation_Certificate_ .jpg Employment_Certificate_ .pdf Please let me know if you need any other information.,Ready
+545,1,Please check the attachment.,Ready
+546,1,Please check the attachment.Thanks.,Ready
+547,1,Please check the attachment.Thank you.,Ready
+548,1,"pls see the attachment, thanks. ada",Ready
+549,1,"Attached the signed consent form. Thanks, Tom",Ready
+550,0,"I'm unable to print it for today. Will send the hand-signed copy tomorrow. Thanks, Tom On Fri, Jun 11, 2021 at 4:28 AM",Ready
+551,1,"Attached a scanned copy with my signature by pen. Thanks, Tom",Ready
+552,1,Pls find the signed consent attached. Thanks -Neo,Ready
+553,1,"Just completed the background verification forms. But there is one thing need to let you know in case of any misunderstanding. Gintech is my former employer and I quited at 15 May this year. As the form asked to fill must one on-going job, so I didn't mention the end time. Thanks -Neo",Ready
+554,1,"Currently I can only supply the e-signature, but if it is ok to send by later today(maybe 8 pm), I can give the print ed copy. Let me know which you prefer. Thanks -",Ready
+555,1,Pls see the picture attached. Thanks -Neo,Ready
+556,1,reviewed and signed.,Ready
+557,1,"only have my proof of enrollment in university. Hope this works. Thanks,",Ready
+558,1,This is my consent form.,Ready
+559,1,I have finished this consent form.,Ready
+560,1,I attached a new one to this email. Thanks for your patience!,Ready
+561,1,My consent form is attached to this email. Thanks,Ready
+562,1,I have signed and attached the consent form.,Ready
+563,1,Sure. I have attached the scanned copy of the file.,Ready
+564,1,"Please refer to attached signed pdf. thanks, ",Ready
+565,1,"Please check attached screenshot, feel free to let me know if it doesn't work. iPhone",Ready
+566,1,"Please refer to attached photo. Thanks,  iPhone",Ready
+567,1,Thanks for your Email. Attached is signed consent form.,Ready
+568,1,"I hope this e-mail finds you well. Please kindly see the attached consent form. Should you need any further information, please feel free to contact me. Thank you.",Ready
+569,1,"Sorry about the inconvenience, the printed copy signed by pen has been newly attached to this email. Hope all the instructions as required were done. Sorry again for the previous mistake.",Ready
+570,1,Sorry for the delay. Please find the consent statement. Thanks.,Ready
+571,1,"Please find the signed consent form at enclosed file. Thanks, Rose",Ready
+572,1,"if you need hand writing copy, please refers to the attached file. Any question feel free let me know. Thanks, Rose 2021-07-23 16:54:56 "" """,Ready
+573,1,"Please see my added Item under 'Employment-IBM' Category We would need documents that capture your End Date with IBM, please refers to this enclosed file name 'IBM Capture End Date.jpg'. Thanks, ",Ready
+574,1,"I confirmed the background check, and attached the signature form. Thanks, Jacob",Ready
+575,1,"I provided the hard copy signature in the attachment. Please let me know if this works for you. Thanks, ",Ready
+576,1,Here is my BGV consent form. Let me know if any questions. Thanks! ,Ready
+577,1,I already provided those info before. Pls check my preivous emails. I attach them here again.  ,Ready
+578,1,refer to the attachment. Thanks&,Ready
+579,1,"HR, I have reviewed and signed the consent. The consent form is attached to this email.",Ready
+580,1,I'm sorry for the inconvenience. I attached a photo copy to this email.,Ready
+581,1,"Please kindly find my consent form signed with signature as attached. Many thanks, At 2021-0 9-06 17:22:53,",Ready
+582,1,I have signed the consent form. Please review it.,Ready
+583,0,"From November 2010 to Present, I always work as a freelancer. Now I am also in SAP's project as a freelancer. Could you please guide me what information/document should be provided? Thank you very much in advanced.",Ready
+584,1,"Thank you for your mail! here is my signed doc,please receive and check Best Wishes!",Ready
+585,1,"Thank you for your email! And attachment is my signed doc, please check! Beat wishes! ",Ready
+586,1,"I've completed my profile, thank for your help.",Ready
+587,1,"Dear Mikaela, The attachment is my diploma and employment separation cetificate, Please confirm whether it meets the requirements.Thanks.",Ready
+588,1,"The attachment is my consent form,please check,thank you!",Ready
+589,1,"The attachment is my consent form,one is a PDF with a handwritten signature, and the other is a scanned photo of a paper documentplease check,thank you!",Ready
+590,1,"I have attached two attachments before, and I will show you the display interface on my side. Now I attach two files again, in case of failure to transfer, I will show the pictures of these two documents directly in the email, please check whether it is feasible thank you",Ready
+591,1,"I've completed my profile, thank for your help.",Ready
+592,1,Thank you for the clarification. Here is the scanned version of the consent form. Please let me know if any further in formation is needed. Thanks!,Ready
+593,1,"The previous copy I sent seems to have a low quality. Here is clearer one. Sorry about the inconvenience. Sincerely, Boren 2021 8 9 6:17 ",Ready
+594,1,Lahaba Thank you very much for your kind reminder. Sorry for missing the email. The photo of my BGV Consent Form is attached. Please feel free to contact me if any other information is needed. Thank you,Ready
+595,1,"Good day. Thank you for your email. I'm sorry there's some missing information. Please check below information and the attachment. 1, About the position title (Analyst) in Employment- Dell China Dalian",Ready
+596,1,"Lahaba, Attached please find my consent file.",Ready
+597,1,Please check attachment.,Ready
+598,1,"The labor contract I signed with Beijing Zhishen Tongchuang in April 2015 is actually the same company as the previous sunbox software, but the contract is re-signed in the name of Beijing Zhishen Tongchuang company. The resignation certificate is issued only when I leaves from ,Beijing Zhishen Tongchuang and the starting date is April 2013 which is I signed labor contract with sunbox software. The attachment is the information of re-signing the contract with Beijing Zhishen Tongchuang in 2015, please refer to. Thanks.",Ready
+599,1,check the attachment.,Ready
+600,1,Please check the attachment for the signed consent form.,Ready
+601,1,"find signed Form attached, thanks.",Ready
+602,1,"As signed consent form already sent at Nov.9th.2021, but still not received any automated invitation email by FADV, could you please help to check about this, thanks in advance.",Ready
+603,1,"Enclosed are the documents for your check. thanks, B&R,  : ",Ready
+604,1,"Signed the consent form as attached, please check it. thanks, B&R  :",Ready
+605,1,", Please check it again. thanks, B&R,  : ",Ready
+606,0,"Some of my certificates are not at home, so the current background investigation card Stop at this step, and I will provide and complete it as soon as possible,thanks! Senior Consultant, SAP HAND Enterprise Solution Co., Ltd. M ob 136 4178 6667",Ready
+607,1,"I'm sorry for the late response, and hope it doesn't impact anything. I'm glad to be informed by this email , please check attachment, thanks!",Ready
+608,1,"Attachment is the consent I signed, please have a look. Thank you so much.",Ready
+609,1,"Sorry for the late reply. The attachment is my latest marksheet from . If any problems, please contact me. Thank you.",Ready
+610,1,"The attachment is the scanned copy of my Student ID Card. I currently have no more documents that contain the needed information. Hope it would be helpful. If any problems, please contact me. Thank you.",Ready
+611,1,"I've signed BGV consent form, would you please check it.If any problems ,please contact me. Thank you! Yours sincerely, ",Ready
+612,1,"The attachment is a photo of my signed BGV consent form.If any problems ,please contact me. Thank you. Yours sincerely, ",Ready
+613,0,Here you ,Ready
+614,1,find it in attachment.,Ready
+615,1,documents as attached. Thanks.,Ready
+616,1,"Please find the attached form I have signed. Thanks, ",Ready
+617,1,My consent form is attached to this email.,Ready
+618,1,"HR team I have signed the ""BGV Consent Form_China"" letter, And agreed to conduct background checks. Attached the signed ""BGV Consent Form_China"" letter.",Ready
+619,1,"already signed it, pls check the attachment. thx.",Ready
+620,1,"just find these information so far, hope it can help your process, pls check the attachments, the contract, offer, part of payroll, which include the related hr name and phone. Company local language: Company address: 80 3 position Date: 2017.4.17 department Thanks ",Ready
+621,0,"the file is ok, would you please send me the ok info email to me",Ready
+622,0,is this the file you have mentioned If not would send me the original file please?,Ready
+623,1,"Here is the screenshot of my offer that l received in 2018, hope it can help with your work.",Ready
+624,0,How are you,Ready
+625,0,This is not what I expected,Ready
+626,0,"hope all is going well with you, I dont have the email for BGV so far, kindly instruct? ",Ready
+627,0,Could I clarify if I should have received an email by now ,Ready
+628,0,"I will only be able to send the signed document over in a few days, is that okay?",Ready
+629,0,Could I check what needs to be done on my end? Thanks ,Ready
+630,0,How is the status of the letter? Tel 38883289,Ready
+631,0,"I do not have copy of signed document right now, but here is my graduation letter",Ready
+632,0,"Hi, thank you for your clarification, Will sign it soon",Ready
+633,0,I'm unable to print it for today. Will send the hand-signed copy tomorrow,Ready
+634,0,"Have not gotten the e-mail yet, is there someone I should contact?",Ready
+635,0,Is this okay,Ready
+636,0,Message has been received but I cannot provide the required documents. Apologies ,Ready
+637,0,"Thanks. I have the documents, will send it once confirmed ",Ready
+638,0,"For the past 5 years I have worked as a freelancer, so I do not have the required documents on hand. ",Ready
+639,0,"I have worked in the industry for the past few years, and part time in SAP. Could you let me know what documents need to be submitted ",Ready
+640,0,Some of my certificates and documents are not with me currently as I am overseas. Could I send it to you at a later date?,Ready
+641,0,Hi. Can I send the documents to you at a later date? They are not with me now ,Ready
+642,0,Hello. Documents are not with me and will only have it in a few weeks. Is it possible to delay?,Ready
+643,0,Interesting. How do I proceed. 2020 01 30,Ready
+644,0,"I just found the documents, will scan and upload them. Thank you! ",Ready
+645,0,I disagree with the BGV check ,Ready
+646,0,Do no agree with the considerations ,Ready
+647,0,what do I do now? Position date: 2017.3.12 department Thanks! ,Ready
+648,0,Will not be continuing this process ,Ready
+649,0,"Hi, I have not found time to print the copy. Will do so in the next few days. Thanks ",Ready
+650,0,"Am now on a business trip, will attach signed consent when back ",Ready
+651,0,"Dear, I am now on holiday and thus do not have access to documents. Is it okay if I send it to you when I'm back? ",Ready
+652,0,I have receievd the email from the external vendor but I cannot give the necessary materials because I was working part time. Kindly advise what I should do ,Ready
+653,0,"I am on a vacation, will forward the signed consent at a later date when I am back ",Ready
+654,0,Will not be continuing this process ,Ready
+655,0,like this?,Ready
+656,0,Do let me know the next steps. Thank,Ready
+657,0,Which document do I attach? ,Ready
+658,0, please find my contract from my past employment here ,Ready
+659,0,Would this screenshot be enough? Tom,Ready
+660,0,"Yes, I do not have access to the document, what should I do ",Ready
+661,0,"No, I have access but I am unsure how to proceed",Ready
+662,0,no consent ,Ready
+663,0,disagree consent ,Ready
+664,0,why do I have to do this ,Ready
+665,0,I do not want to do this ,Ready
+666,0,Will forward copy in the coming days ,Ready
+667,0,"Did not receive email to sign the form, please advise? Thanks!",Ready
+668,0,I am currently still employed and I cannot sign the consent form now due to a NDA,Ready
+669,0,Cannot provide what is required. Thank you ,Ready
+670,0,Could you help me check if I have sent the signed consent before? Thanks! ,Ready
+671,0,"Hi, thanks for reaching out. I have one concern: I do not have access to the documents as it is in my home town. And I cannot travel back currently due to covid. Could  check if this can be delayed? ",Ready
+672,0,Thank you for your prompt response. How should we go forth? ,Ready
+673,0,Do let me know if there is anything else you need,Ready
+674,0,How should I proceed,Ready
+675,0,No consent ,Ready
+676,0,no  ,Ready
+677,0,Unfortunately I will be away from my house tomorrow onwards and may not be able to provide the documents required until 21st may. I apologise for the inconvenience caused ,Ready
+678,0,"Sorry for the late reply, I did not have internet connection for the past week. Will send the signed documents soon ",Ready
+679,0,"Hi, apologies for the delayed reply. I was away from my laptop for awile. Will send the consent soon",Ready
+680,0,Do not think I can provide the signed consent document because print shops near me are closed due to lockdown ,Ready
+681,0,Thanks for reaching out. Could you tell me more about the next steps? ,Ready
+682,0,Not very sure of what to do. Do I just sign it? ,Ready
+683,0,Hi. Could I check if this is the correct form you want me to sign? ,Ready
+684,0,Thanks for getting back. I believe there may have been a mix up and this is not the correct form ,Ready
+685,0,I have just begun a new project and am bounded by the NDA. Coud I check how this BGV check will proceed as I cannot disclose some information,Ready
+686,0,"I just started a new project and thus signed an the NDA. As such, I cannot agree to a BGV, sorry about that ",Ready
+687,0,Could I check how long this BGV would take? I am in a rush due to unforseen circumstances ,Ready
+688,0,"Hi, thanks for your swift reply. Could I check how long this check takes? ",Ready
+689,0,How long would this back ground check take? ,Ready
+690,0,"Nice to connect with you, what do I do next? ",Ready
+691,0,Clearly no ,Ready
+692,0,My job at Alibaba made me sign an NDA for a few years. Can I still go through with the BGV or is there no point ,Ready
+693,0,I am bounded by an agreement I signed during my contract for my previous job,Ready
+694,0,I do not think any files were attached ,Ready
+695,0,"hi there, sorry I am not good with technology. Could you explain what I should do next",Ready
+696,0,How would this work?,Ready
+697,0,Could you give me some deeper insights into what checks the Background verification would do? ,Ready
+698,0,How would I be notified that the background checks are successful ,Ready
+699,0,Is the background checks absolutely necessary? I have gone through them in previous companies and it took way too long,Ready
+700,0,Are the checks required?,Ready
+701,0,Would a screen shot suffice? ,Ready
+702,0,"I have a question regarding the background check. I filled in some incorrect information previously, is there any way I could rectify that? ",Ready
+703,0,"About the background check, I want to correct some information filled in previously. Do I let you know here? ",Ready
+704,0,Could you resend the email? ,Ready
+705,0,Sorry to bother you again but could I request that you resend the form? I accidentally deleted it. Thank you!,Ready
+706,0,Do you mind resending me the background check form? Apologies ,Ready
+707,0,could I clarify the rationale for the checks? ,Ready
+708,0,I will send the signed forms to you at a later date ,Ready
+709,0,Is there someone I can talk to regarding this? ,Ready
+710,0,"Hi, sorry but I can only get back to you about this later ",Ready
+711,0,"Hi there, thank you for taking the effort to go through this with me. However, I think for now I will be putting this on hold",Ready
+712,0,"I am travelling now, so I can only send you the consent later ",Ready
+713,0,Apologies but I unfortunately am unable to provide you the signed background verification form because I am overseas ,Ready
+714,0,"Hi, I recently lost the documents due to a fire and I would need some time to furbish them. Hope to seek your understanding ",Ready
+715,0,FYI - I was employed at Tencent from 2017-2020 but do not have the documents on hand as it is with HR. I can provide you the banking details though ,Ready
+716,0,"Thank you for the email. Actually, What is the background check about? Am a bit confused over the details ",Ready
+717,0,I did not attach the form. Thank you for your help ,Ready
+718,0,"Apologies, there is no company name I can find, so I cannot retrive it from my side. Could providing bank details be enough?",Ready
+719,0,Hi can I have a status update on the background check? It has been awhile since I last had an update. Thank you ,Ready
+720,0,"I am away for the next few days, can I send the signed form when I come back? ",Ready
+721,0,"Thank you. Do let me consider this in the meantime, I will provide an update ",Ready
+722,0,"Really appreciate your help, will get back to you regarding this",Ready
+723,0,Hi! I think I will not proceed ,Ready
+724,0,"I do not think such checks are necessary, I can provide you the details you require. Just let me know ",Ready
+725,0,Is there a way to expedite the process? ,Ready
+726,0,"These checks are not required in my country, so can we skip them?",Ready
+727,0,I had already gone through a check with SAP awhile ago,Ready
+728,0,I have already done this check ,Ready
+729,0,Will not be able to give a reply ,Ready
+730,0,"Cannot provide a response anytime soon, sorry ",Ready
+731,0,Could you advise on the next steps,Ready
+732,0,"Hi, was away for the past few weeks so I did not see the email. Has the window closed?",Ready
+733,0,"Sorry for the late reply, is the BGV still open? ",Ready
+734,0,Could I check if there is a deadline for the checks? ,Ready
+735,0,what is the latest date I could submit the form by?,Ready
+736,0,Hi may I know roughly when will the background check start? ,Ready
+737,0,I do not agree ,Ready
+738,0,I do not consent to the background verification checks ,Ready
+739,0,No ,Ready
+740,0,I cannot provide what is requested,Ready
+741,0,I cannot agree to the terms and conditions stipulated ,Ready
+742,0,Could I get back to you at a later period? ,Ready
+743,0,"Hi, thank you so much for your help. As I am away this week, I will not be able to provide the documents requested ",Ready
+744,0,May I know who is doing the background checks ,Ready
+745,0,Is there a need to do this if I had already undergone one previously?,Ready
+746,0,Could I trouble you to check if I had previously submitted the signed form? I am not sure ,Ready
+747,0,Can I check if I had already provided the signed form? ,Ready
+748,0,Did I already submit the signed consent? ,Ready
+749,0,May I know the exact steps that will be taken for the background checks? ,Ready
+750,0,"Hi, I believe I have already submitted the form. Could you check? ",Ready
+751,0,"Sorry, I can only provide the signed consent tomorrow because my printer is broken and I have to find a shop to print ",Ready
+752,0,"Sorry, I cannot give you the signed form today because my printer is broken, could I submit it by this Thursday? ",Ready
+753,0,May I know if the information extracted during background checks will be stored somewhere? ,Ready
+754,0,"Dear, I cannot furbish the documents because I lost them",Ready
+755,0,"I apologise but I might have misplaced the documents, is there anything you might need in the meantime? ",Ready
+756,0,"I might have to get back to you regarding the documents, they are not with me at the moment ",Ready
+757,0,I will suppliment the documents later as I do not have access to them at the moment. ,Ready
+758,0,I might have slight issues with the background check ,Ready
+759,0,"I have some problems producing the documents because while I officially graduated from university last month, they have not provided the e-certificate ",Ready
+760,0,"Instead of going through this background check, could I provide the results from one I had just underwent? ",Ready
+761,0,I was wondering if this background check if required if I plan to change my country of residence soon? ,Ready
+762,0,May I know what is the earliest date this would be done? ,Ready
+763,0,I don't think this is something I can see myself doing ,Ready
+764,0,"Sorry, I had actually signed the form but I misplaced it somewhere. I'll send it asap ",Ready
+765,0,I'll send the form as soon as possible ,Ready
+766,0,"Hi, sorry I misplaced the documents. I will get back to you as soon as possible ",Ready
+767,0,"Hello. Forms are not with me currently, can I submit it by next week? ",Ready
+768,0,I feel slightly uncomfortable with signing the BGV form,Ready
+769,0,I am a little uncomfortable with signing the background verification form ,Ready
+770,0,"Hope you are doing well, could I check if your side has sent out the form? I do not think I have received anything ",Ready
+771,0,Sorry to disturb you again but could I check if the consent form has been sent out? I did not get anything ,Ready
+772,0,There may have been a mixup as I have not received any forms to sign,Ready
+773,0,"Apologies, I did not realise that I sent the original unsigned form",Ready
+774,0,"Hope you have been well, I have been considering the options hard and I'm sorry but I will not proceed with the application ",Ready
+775,0,I have deliberated the choices and I will not continue with the check ,Ready
+776,0,"Unfortunately, I will discontinue the background check ",Ready
+777,0,Would it be possible to opt out of the background verification check? ,Ready
+778,0,Is it okay to not undergo the BGV check ,Ready
+779,0,It is possible to avoid the BGV checks? ,Ready
+780,0,Could I avoid the background veririfcaiton check? ,Ready
+781,0,Could I opt out of the BGV check ,Ready
+782,0,Could I ask why this BGV check is needed?,Ready
+783,0,Why is the background check needed,Ready
+784,0,May I know why this check is required in the first place ,Ready
+785,0,Is this something I can opt out from?,Ready
+786,0,May I know what the checks are looking out for? ,Ready
+787,0,What is the process of the BGV checks like? ,Ready
+788,0,What are the red flags that the backgroud checks look out for ,Ready
+789,0,I have already declared private information previously. Is there still a need for the BGV checks ,Ready
+790,0,What is the process of background verification check,Ready
+791,0,Please give me some time to think about it ,Ready
+792,0,"Hi there, I hope to have your kind understanding in the matter but I am not comfortable going through this BGV check  ",Ready
+793,0,Is there any way to not go for the BGV check,Ready
+794,0,May I know why this is necessary ,Ready
+795,0,I might not be able to send the consent because of non disclosure agreement with another company ,Ready
+796,0,I will send you the signed form latest by next week ,Ready
+797,0,may I know who does the BGV check ,Ready
+798,0,Is this BGV a standard process? ,Ready
+799,0,Would this TIF file be enough? Thanks ,Ready

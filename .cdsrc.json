@@ -1,0 +1,38 @@
+{
+    "[local]" : {
+        "auth" : {
+            "passport" : {
+                "users" : {
+                    "Admin" : {
+                        "password" : "Admin@Password",
+                        "ID" : "Admin",
+                        "roles" : ["Admin"]
+                    },
+                    "User" : {
+                        "password" : "User@Password",
+                        "ID" : "User",
+                        "roles" : ["User"]
+                    }
+                }
+            }
+        }
+    },
+    "[hana-local]" : {
+        "auth" : {
+            "passport" : {
+                "users" : {
+                    "Admin" : {
+                        "password" : "Admin@Password",
+                        "ID" : "Admin",
+                        "roles" : ["Admin"]
+                    },
+                    "User" : {
+                        "password" : "User@Password",
+                        "ID" : "User",
+                        "roles" : ["User"]
+                    }
+                }
+            }
+        }
+    }
+}

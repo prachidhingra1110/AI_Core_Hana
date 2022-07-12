@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="4.0" xmlns:edmx="http://docs.oasis-open.org/odata/ns/edmx">
+    <edmx:DataServices>
+        <Schema Namespace="TrainData" xmlns="http://docs.oasis-open.org/odata/ns/edm">
+            <EntityContainer Name="EntityContainer">
+                <EntitySet Name="Data" EntityType="TrainData.Data"/>
+                <EntitySet Name="DataUI" EntityType="TrainData.DataUI"/>
+                <ActionImport Name="createData" Action="TrainData.createData"/>
+            </EntityContainer>
+            <EntityType Name="Data">
+                <Key>
+                    <PropertyRef Name="ID"/>
+                </Key>
+                <Property Name="ID" Type="Edm.Int32" Nullable="false"/>
+                <Property Name="Target" Type="Edm.Boolean"/>
+                <Property Name="Text" Type="Edm.String"/>
+                <Property Name="Status" Type="Edm.String" DefaultValue="Not Ready"/>
+            </EntityType>
+            <EntityType Name="DataUI">
+                <Key>
+                    <PropertyRef Name="ID"/>
+                </Key>
+                <Property Name="ID" Type="Edm.Int32" Nullable="false"/>
+                <Property Name="Target" Type="Edm.Boolean"/>
+                <Property Name="Text" Type="Edm.String"/>
+                <Property Name="Status" Type="Edm.String" DefaultValue="Not Ready"/>
+            </EntityType>
+            <Action Name="createData" IsBound="false">
+                <Parameter Name="Text" Type="Edm.String"/>
+                <Parameter Name="Intent" Type="Edm.Boolean"/>
+            </Action>
+        </Schema>
+    </edmx:DataServices>
+</edmx:Edmx>

@@ -1,0 +1,96 @@
+{
+  "name": "AI_Core_Hana",
+  "version": "1.0.0",
+  "description": "A simple CAP project.",
+  "repository": "<Add your repository here>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^5",
+    "@sap/cds-dk": "^4.9.7",
+    "@sap/xssec": "^3",
+    "build": "^0.1.4",
+    "cds": "^0.2.0",
+    "express": "^4",
+    "hdb": "^0.19.0",
+    "passport": "^0"
+  },
+  "devDependencies": {
+    "@sap/ux-specification": "^1.100.3",
+    "sqlite3": "^5.0.2",
+    "@sapui5/ts-types": "1.71.x",
+    "@ui5/cli": "2.2.6",
+    "@sap/ui5-builder-webide-extension": "1.0.x"
+  },
+  "scripts": {
+    "start": "cds run",
+    "start-local": "cds run --profile local",
+    "start-hana-local": "cds run --profile hana-cloud",
+    "start-hybrid": "cds run --profile hybrid",
+    "undeploy": "cf undeploy AI_Core_Hana --delete-services --delete-service-keys",
+    "watch-intent_extraction_ui": "cds watch --open intent_extraction_ui/webapp/index.html#fe-lrop-v4",
+    "watch-user_view": "cds watch --open user_view/webapp/index.html#fe-lrop-v4"
+  },
+  "eslintConfig": {
+    "extends": "eslint:recommended",
+    "env": {
+      "es2020": true,
+      "node": true,
+      "jest": true,
+      "mocha": true
+    },
+    "globals": {
+      "SELECT": true,
+      "INSERT": true,
+      "UPDATE": true,
+      "DELETE": true,
+      "CREATE": true,
+      "DROP": true,
+      "CDL": true,
+      "CQL": true,
+      "CXL": true,
+      "cds": true
+    },
+    "rules": {
+      "no-console": "off",
+      "require-atomic-updates": "off"
+    }
+  },
+  "cds": {
+    "hana": {
+      "deploy-format": "hdbtable"
+    },
+    "requires": {
+      "[production]": {
+        "db": {
+          "kind": "hana-cloud"
+        },
+        "auth": {
+          "kind": "xsuaa"
+        }
+      },
+      "[local]": {
+        "db": {
+          "kind": "sqlite"
+        },
+        "auth": {
+          "kind": "basic-auth"
+        }
+      },
+      "[hana-local]": {
+        "db": {
+          "kind": "hana-cloud"
+        },
+        "auth": {
+          "kind": "basic-auth"
+        }
+      },
+      "approuter": {
+        "kind": "cloudfoundry"
+      }
+    }
+  },
+  "sapux": [
+    "app/intent_extraction_ui"
+  ]
+}
